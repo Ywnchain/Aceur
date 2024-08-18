@@ -1,0 +1,4 @@
+Lockable:"DISABLED"
+Changeable:"NORMAL"
+Developer:"author"
+Version:"version"
