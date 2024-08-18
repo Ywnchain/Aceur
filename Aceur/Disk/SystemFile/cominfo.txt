@@ -1,4 +1,0 @@
-computername:MyComputer
-username:t
-password:t
-DM:true

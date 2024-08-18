@@ -1,4 +1,0 @@
-Lockable:"TRUE"
-Changeable:"DISABLED"
-Developer:"Tesford Official"
-Version:"version"
